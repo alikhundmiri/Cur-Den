@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">curden</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="_1000">1000</string>
+    <string name="_500">500</string>
+    <string name="_2000">2000</string>
+
+    <string name="banner_ad_unit_id_1">ca-app-pub-7313204296797742/4453200744</string>
+    <string name="banner_ad_unit_id_2">ca-app-pub-7313204296797742/1499734349</string>
+
+
+</resources>

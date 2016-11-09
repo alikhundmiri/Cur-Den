@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Overlap the left, top and right border using background color  -->
+
+    <item
+        android:left="@dimen/hint_strike_margin"
+        android:right="@dimen/hint_strike_margin">
+        <shape android:shape="line">
+            <!-- Draw a 5dp width border around shape -->
+            <stroke
+                android:color="@color/Denomination_hint"
+                android:width="1dp"
+                />
+        </shape>
+    </item>
+
+
+
+</layer-list>

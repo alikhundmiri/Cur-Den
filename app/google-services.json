@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "523210285963",
+    "firebase_url": "https://denominote.firebaseio.com",
+    "project_id": "denominote",
+    "storage_bucket": "denominote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523210285963:android:ce37b50c656b61cf",
+        "android_client_info": {
+          "package_name": "com.awesome.alikhundmiri.curden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523210285963-ajvlrerkclhn4s0gs7fjrk0l42pl0qil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCZZDRnaQCF-ncv0nDsivjT9hEDU3rRiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

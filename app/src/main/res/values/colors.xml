@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#641a1f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Denomination_hint">#75641a1f</color>
+    <color name="color_first">#ddf4f2</color>
+    <color name="color_first_row">#20fc0000</color>
+    <color name="color_first_hint">#8c9e9c</color>
+    <color name="color_second">#641a1f</color>
+    <color name="color_second_dark">#4d1518</color>
+
+</resources>
